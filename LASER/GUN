@@ -245,3 +245,10 @@ run_service.RenderStepped:Connect(function()
 
     remote:FireServer(id, pos1, dir, workspace:GetServerTimeNow())
 end)
+
+print("OP Fps devour loaded")
+print("discord.gg/brainrotworld")
+print("lennon skidded us 🤡")
+print("discord.gg/brainrotworld")
+print("discord.gg/brainrotworld")
+print("TOKINU HUB ON TOP")
